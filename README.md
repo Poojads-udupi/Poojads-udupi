@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Generative AI tool kit
 - 🌱 I’m currently learning AI residency and Python
-- 👯 I’m looking to collaborate on projects involving Generative AI and pthon
+- 👯 I’m looking to collaborate on projects involving Generative AI and python
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anythng
 - 📫 How to reach me: poojashetty357@gmail.com
