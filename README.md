@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Generative AI tool kit
+- 🔭 I’m currently working on Gradio Assignment 
 - 🌱 I’m currently learning AI residency and Python
 - 👯 I’m looking to collaborate on projects involving Generative AI and python
 - 🤔 I’m looking for help with ...
