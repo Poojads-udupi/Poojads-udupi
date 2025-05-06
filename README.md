@@ -20,7 +20,7 @@
 ---
 
 🛠️ Projects
-Here are a few simple projects I’ve built using Gradio:
+Here is a simple project I’ve built using Gradio:
 - 🔍 Healthy Recipe swapps(#): 🥗 Healthy Recipe Swaps: A beginner-friendly Gradio app that suggests healthier ingredient alternatives for common recipes. Great for users looking to improve their diet with smarter food choices
 - https://poojashetty357-gradion-assignment.hf.space/?__theme=system
   
